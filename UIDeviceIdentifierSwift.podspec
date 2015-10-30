@@ -8,4 +8,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/tiwas/UIDeviceIdentifierSwift.git", :tag => s.version.to_s }
   s.platform     = :ios
   s.source_files = "source/*.swift"
+  s.requires_arc = false
 end

@@ -1,0 +1,3 @@
+# UIDeviceIdentifierSwift
+
+UIDeviceIdentifierSwift

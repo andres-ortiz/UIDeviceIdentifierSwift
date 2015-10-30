@@ -8,7 +8,7 @@
 
 import Foundation
 
-class  UIDeviceIdentifier {
+class  UIDeviceIdentifierSwift {
     
     func platform() -> String {
     

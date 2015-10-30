@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "UIDeviceIdentifierSwift"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "UIDeviceIdentifierSwift return name device."
   s.homepage     = "https://github.com/tiwas/UIDeviceIdentifierSwift"
   s.license      = 'MIT'
